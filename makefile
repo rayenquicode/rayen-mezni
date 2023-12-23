@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -Wall
 
-all: bataille_navale
+all: bataille_navale -fsanitize=address
 
 bataille_navale: bataille_navale.o main.o
 	$(CC) $(CFLAGS) -o bataille_navale bataille_navale.o main.o
