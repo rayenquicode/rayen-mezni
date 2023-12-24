@@ -1,4 +1,4 @@
-CC = gcc
+GCC = gcc
 CFLAGS = -Wall -fsanitize=address
 
 all: bataille_navale
