@@ -43,7 +43,7 @@ Le premier qui coule tous les bateaux de l'adversaire a gagné.
 
 Fonctions:
 
-main : C'est la fonction pricipale, qui va gérer les tours des joueur,afficher le résultat et initialise le jeu.
+main : C'est la fonction pricipale, qui va gérer les tours des joueurs ,afficher le résultat et initialiser le jeu.
 
 struct Jeu : Structure pour les plateaux et les bateaux.
 
