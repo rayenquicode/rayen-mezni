@@ -51,11 +51,12 @@ creerJeu : Pour les jeux, plateaux et bateaux.
 
 libererMemoire : Libère la mémoire allouée pour le jeu.
 
-struct Plateau : Structure pour representer le plateau.
+struct Plateau : Structure pour représenter le plateau.
 
 creationdunplateau : Pour créer le plateau.
 
-afficherPlateau : Affiche le plateau de jeu avec les symbole + pour l'eau et T pour les tirs.
+afficherPlateau : Affiche le plateau de jeu avec les symboles e pour l'eau et #
+pour les tirs.
 
 tirer : S'occupe des tirs
 
